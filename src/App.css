@@ -1,0 +1,59 @@
+.has-same-height .card {
+  height: 320px;
+  overflow: hidden;
+}
+
+.card-content h3 {
+  /* text-align: center; */
+  text-align: left;
+}
+
+.table-profile td,
+th {
+  border: none !important;
+}
+
+.table-profile td:first-of-type {
+  font-weight: bold;
+}
+
+.skills-content .media {
+  margin: 0 !important;
+  padding: 4px !important;
+  border: 0 !important;
+}
+
+.skills-content .progress {
+  height: 4px !important;
+}
+
+.custom-tags {
+  text-align: center !important;
+  display: block;
+}
+
+.portfolio-container .card {
+  margin-bottom: 2em;
+}
+
+.section-heading {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+/* Hero Background Image */
+.header-image {
+  background-image: url(./images/pexels-pixabay-258149.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  /* filter:brightness(80%); */
+  /* filter:contrast(150%) */
+}
+
+.hero-body .container {
+margin-bottom: 18rem;
+}
