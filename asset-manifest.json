@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.3564144f.chunk.css",
+    "main.js": "/portfolio_react/static/js/main.f6f63ce6.chunk.js",
+    "main.js.map": "/portfolio_react/static/js/main.f6f63ce6.chunk.js.map",
+    "runtime-main.js": "/portfolio_react/static/js/runtime-main.908c6939.js",
+    "runtime-main.js.map": "/portfolio_react/static/js/runtime-main.908c6939.js.map",
+    "static/js/2.f874e4fb.chunk.js": "/portfolio_react/static/js/2.f874e4fb.chunk.js",
+    "static/js/2.f874e4fb.chunk.js.map": "/portfolio_react/static/js/2.f874e4fb.chunk.js.map",
+    "static/js/3.a6d3a9d6.chunk.js": "/portfolio_react/static/js/3.a6d3a9d6.chunk.js",
+    "static/js/3.a6d3a9d6.chunk.js.map": "/portfolio_react/static/js/3.a6d3a9d6.chunk.js.map",
+    "index.html": "/portfolio_react/index.html",
+    "static/css/main.3564144f.chunk.css.map": "/portfolio_react/static/css/main.3564144f.chunk.css.map",
+    "static/js/2.f874e4fb.chunk.js.LICENSE.txt": "/portfolio_react/static/js/2.f874e4fb.chunk.js.LICENSE.txt",
+    "static/media/Project1_Tyndre.07729f36.gif": "/portfolio_react/static/media/Project1_Tyndre.07729f36.gif",
+    "static/media/burger_app_screenshot.0e77ed73.png": "/portfolio_react/static/media/burger_app_screenshot.0e77ed73.png",
+    "static/media/employee_tracker.cebfc2c1.gif": "/portfolio_react/static/media/employee_tracker.cebfc2c1.gif",
+    "static/media/homework_10_note_taker.630f4d63.png": "/portfolio_react/static/media/homework_10_note_taker.630f4d63.png",
+    "static/media/App.css": "/portfolio_react/static/media/pexels-pixabay-258149.7b24bc11.jpg",
+    "static/media/thammarak_photo_320_320.caaf876a.jpg": "/portfolio_react/static/media/thammarak_photo_320_320.caaf876a.jpg",
+    "static/media/travel_journal_page_1.1c5da958.png": "/portfolio_react/static/media/travel_journal_page_1.1c5da958.png",
+    "static/media/travel_journal_page_2.f88a9201.png": "/portfolio_react/static/media/travel_journal_page_2.f88a9201.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.908c6939.js",
+    "static/js/2.f874e4fb.chunk.js",
+    "static/css/main.3564144f.chunk.css",
+    "static/js/main.f6f63ce6.chunk.js"
+  ]
+}
